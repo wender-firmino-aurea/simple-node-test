@@ -1,0 +1,21 @@
+{
+  "name": "simple-node-test",
+  "version": "1.0.0",
+  "description": "This is a simple test",
+  "main": "server.js",
+  "scripts": {
+        "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wender-firmino-aurea/simple-node-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wender-firmino-aurea/simple-node-test/issues"
+  },
+  "homepage": "https://github.com/wender-firmino-aurea/simple-node-test#readme"
+ 
+}
